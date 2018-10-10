@@ -1,1 +1,2 @@
-# MLA
+# Practical Machine Learning
+
